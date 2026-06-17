@@ -1,0 +1,19 @@
+{
+  "overview": "Global Trek — Himalayan trekking and yatra tour operator site with treks listing and 7 detailed trek pages.",
+  "features": [
+    "Treks listing page with filtering and comparison table",
+    "7 fully detailed trek pages with itineraries and FAQs",
+    "Reusable card components and shared trek data",
+    "Sticky booking panel placeholder",
+    "Responsive photo galleries and accordion itineraries"
+  ],
+  "category": "showcase",
+  "tags": [
+    "travel",
+    "trekking",
+    "himalaya",
+    "tourism",
+    "responsive"
+  ],
+  "last_updated": "2026-06-17T05:56:57.000Z"
+}
